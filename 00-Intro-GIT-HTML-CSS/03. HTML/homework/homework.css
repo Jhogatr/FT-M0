@@ -1,0 +1,14 @@
+h1{color: rgb(52, 136, 14);}
+
+img{width: 400px;}
+
+#thirdDiv
+{height: 600px;
+ width: 500px;
+ background-color: coral;
+ padding: 50px;
+ border: 8px solid green;}
+
+ #spanId
+ {font-size: 18px;
+  margin: 50px;} 
