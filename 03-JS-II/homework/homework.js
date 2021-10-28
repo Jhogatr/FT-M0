@@ -167,7 +167,6 @@ function esVerdadero(valor){
   //Escribe una función que reciba un valor booleano y retorne “Soy verdadero” 
   //si su valor es true y “Soy falso” si su valor es false.
   //Escribe tu código aquí
-
   if(valor) return "Soy verdadero";
   else return "Soy falso";
 }
@@ -184,7 +183,6 @@ function tieneTresDigitos(numero){
 //}
 //if(cantidadDeDigitos === 3) return true
 //else return false;
-
 }
 
 function doWhile(numero) {
@@ -196,8 +194,7 @@ function doWhile(numero) {
     numero =numero + 5;
     i++;
   } while (i < 8);
-
-  return numero;
+return numero;
 }
 
 
