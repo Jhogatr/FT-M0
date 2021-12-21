@@ -246,6 +246,7 @@ else if(letra === "i") return "Es vocal";
 else if(letra === "o") return "Es vocal";
 else if(letra === "u") return "Es vocal";
 else if(letra.length > 1) return "Dato incorrecto"
+
 }
 
 
