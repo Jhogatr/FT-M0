@@ -11,14 +11,12 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     text-align: center;
 }
 
-
 /* Ejercicio 2: Posicionar el header */
 
 /* Acá va tu código */
 #ejercicioDos{
     visibility: hidden;
 }
-
 
 /* Ejercicio 3: */
 
@@ -29,7 +27,6 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     left: 200px;
 }
 
-
 /* Ejercicio 4: */
 
 /* Acá va tu código */
@@ -37,7 +34,6 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     position: fixed;
     top: 0px;
 }
-
 
 /* Ejercicio 5: */
 
@@ -48,7 +44,6 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     align-items: center;
     
 }
-
 
 /* Ejercicio 6. */
 #ejercicioCinco{
