@@ -320,8 +320,6 @@ function breakStatement(numero) {
   //devolver: "Se interrumpió la ejecución"
   //Pista: usá el statement 'break'
   // Tu código:
-
-  // no entiendo la solucion de este código
 }
 
 function continueStatement(numero) {
@@ -331,8 +329,6 @@ function continueStatement(numero) {
   //Cuando el número de iteraciones alcance el valor 5, no se suma en ese caso y se continua con la siguiente iteración
   //Pista: usá el statement 'continue'
   // Tu código:
-
-  //no entiendo la solucion de este codigo
 }
 
 
